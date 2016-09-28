@@ -1,0 +1,12 @@
+START
+    Write PIN
+    var count = 0
+    check PIN
+    if PIN is rigth
+        you can see your bank balance
+    else check how many trials 
+        if less than 3 trials
+            PIN again
+        else
+            end and go to the bank
+END       

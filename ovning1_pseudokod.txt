@@ -1,0 +1,21 @@
+START
+    Check weather forecast
+    if rains:
+        take umbrella
+        wellington boots
+        rain cover for backpack
+    else if sunny:
+        sunglasses
+        t-shirt
+        shorts
+        sandals
+        skip class
+    else if windy:
+        coat
+        boots
+        no skipping class
+    else if snow:
+        thick jacket
+        winter boots
+        two pants on
+END
